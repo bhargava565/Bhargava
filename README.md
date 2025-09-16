@@ -1,4 +1,6 @@
 # Bhargava
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/54747bb3-ec43-4e6f-8b62-766847b4b85f" />
+
 <h1>my personal repository</h1>
 
 <img width="1536" height="1024" alt="Highlighted Data Engineering Experience" src="https://github.com/user-attachments/assets/457e513e-a165-46ea-867f-8bb7963811fa" />
