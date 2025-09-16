@@ -6,11 +6,11 @@ my personal repository
 💼 Experience
 ⚙️ Built Market Risk Analytics Dashboard using Python, Flask, FastAPI.
 
-🧠 Integrated LLMs (LangChain, Hugging Face, PyTorch) for Monte Carlo & Historical VaR → 📈 +25% accuracy.
+🧠 Integrated LLMs (LangChain, Hugging Face, PyTorch) for Monte Carlo & Historical VaR → 📈 accuracy.
 
 📡 Designed real-time data pipelines with Kafka & RabbitMQ → zero lag ingestion.
 
-🗄️ Optimized PostgreSQL & AWS RDS → ⚡ +40% faster queries.
+🗄️ Optimized PostgreSQL & AWS RDS → ⚡ faster queries.
 
 📊 Built dashboards with Dash, Plotly, Grafana, WebSockets → 👩‍💻 +50% efficiency.
 
