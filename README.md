@@ -1,9 +1,9 @@
 # Bhargava
-my personal repository
+<h1>my personal repository</h1>
 
 <img width="1536" height="1024" alt="Highlighted Data Engineering Experience" src="https://github.com/user-attachments/assets/457e513e-a165-46ea-867f-8bb7963811fa" />
 
-💼 Experience
+<h3>💼 Experience
 ⚙️ Built Market Risk Analytics Dashboard using Python, Flask, FastAPI.
 
 🧠 Integrated LLMs (LangChain, Hugging Face, PyTorch) for Monte Carlo & Historical VaR → 📈 accuracy.
@@ -28,10 +28,10 @@ my personal repository
 
 🐳 Containerized apps with Docker & Kubernetes → 🚀 70% faster deployments.
 
-🤝 Collaborated in Agile sprints → 100% sprint delivery efficiency.
+🤝 Collaborated in Agile sprints → 100% sprint delivery efficiency.</h3>
 <img width="1024" height="1536" alt="Skills" src="https://github.com/user-attachments/assets/fdb5b30a-25ac-43c2-bd4a-ff0f2f152ef8" />
 
-🛠️ Skills
+<h3>🛠️ Skills
 
 👨‍💻 Programming & Frameworks: Python, C++, Django, Flask, FastAPI, React, Node.js
 
@@ -49,4 +49,4 @@ my personal repository
 
 🧪 Testing & Security: PyTest, Unit Testing, A/B Testing, OAuth2, JWT, RBAC, Encryption
 
-📐 Methods: Agile Scrum, Cross-functional Collaboration, Code Reviews
+📐 Methods: Agile Scrum, Cross-functional Collaboration, Code Reviews</h3>
